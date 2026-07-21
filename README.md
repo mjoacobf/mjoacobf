@@ -1,4 +1,4 @@
-# Mauricio Joaquin Berrospi F. [(mjoacobf)](https://github.com/mjoacobf)
+# Mauricio Joaquin Berrospi F. ([mjoacobf](https://github.com/mjoacobf))
 
 
 Me llaman Joaquín.
@@ -19,7 +19,7 @@ Me llaman Joaquín.
 ## Actividades relacionadas
 * Miembro del equipo organizador del Cachimbo Coding Cup (ediciones 2025-2 y 2026-1): Competencias de programación competitiva dirigidas a estudiantes de primer ciclo, organizado por el equipo del área académica del Centro Cultural Núcleo
 * Ponente de asesorías de los cursos de primeros ciclos de la FIIS (incluye Algoritmia y Estructura de Datos) por parte del Centro Cultural Núcleo
-* Ponente del Taller de Programación para Cachimbos 26-1 en C++
+* Ponente del Taller de Programación para Cachimbos 26-1 en C++ organizado por el Centro Cultural Núcleo
 
 ## Proyectos relacionados
 _Próximamente_
