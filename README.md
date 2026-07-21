@@ -5,7 +5,7 @@ Me llaman Joaquín.
 
 * Estudiante de Ingeniería de Sistemas - FIIS UNI
 * Décimo superior desde el primer ciclo
-* Director académico del [Centro Cultural Núcleo](https://www.linkedin.com/company/centro-cultural-nucleo), encargado de las actividades de desarrollo de Software, competencias y guías académicas para el desarrollo personal y profesional
+* Director académico del [Centro Cultural Núcleo](https://github.com/ccnucleo), encargado de las actividades de desarrollo de Software, competencias y guías académicas para el desarrollo personal y profesional
 * Director de Relaciones Institucionales en [Artificial Intelligence Society](https://www.linkedin.com/company/the-aisociety/), encargado de pactar alianzas con organizaciones del mundo tech
 * Alumno de Aspire Leaders Program Cohort 3 2026
 
